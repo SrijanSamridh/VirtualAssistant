@@ -81,7 +81,7 @@ if __name__ == '__main__':
         elif 'open stakeoverflow' in query:
             webbrowser.open("stakeoverflow.com")
 
-        #COMMAND TO OPEN APPS IN THE COMPUTER.
+        #COMMAND TO OPEN APPLICATIONS IN THE COMPUTER.
         elif "physics file" in query:
             physics = 'C:\\Users\\Srijan Samridh\\Desktop\\12th Boards prep\\Physics\\Alternating Current ch-7'
             lectures = os.listdir(physics)
